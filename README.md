@@ -10,11 +10,20 @@
 
 
 
-- 🌱 I’m currently learning **Node.js**
+<div>
+ <div align="left">
+  - 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shuvro18](https://github.com/shuvro18)
 
 - 💬 Ask me about **web development**
+ </div>
+ <div align="right">
+ 
+  <img width="1210" height="782" alt="carbon" src="https://github.com/user-attachments/assets/67be2025-2539-4b37-ae7d-4dd68d380b5a" />
+
+ </div>
+</div>
 
  
 ## 🌐 Socials:
