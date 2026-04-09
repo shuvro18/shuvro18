@@ -3,15 +3,13 @@
 
 <img width="1024" height="382" alt="image" src="https://github.com/user-attachments/assets/8a64c237-f191-490d-bc34-2b1606f7ca95" />
 
-
+:
 
 - 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shuvro18](https://github.com/shuvro18)
 
 - 💬 Ask me about **web development**
-
-#hello
 
  
 ## 🌐 Socials:
