@@ -31,3 +31,10 @@ const shuvroBiswas = {
   },
   
 }
+
+
+const nurAdnan = {
+  pronouns: "he/him",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  // আপনার অন্যান্য তথ্য...
+}
