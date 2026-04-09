@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvro18&label=Profile%20views&color=0e75b6&style=flat" alt="shuvro18" /> </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Helle%2C+there....%F0%9F%91%8D;I+am+Shuvro+Biswas...;Nice+To+meet+you!)](https://git.io/typing-svg)
+
 
 <img width="1024" height="382" alt="image" src="https://github.com/user-attachments/assets/8a64c237-f191-490d-bc34-2b1606f7ca95" />
 
