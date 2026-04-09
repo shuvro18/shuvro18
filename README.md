@@ -31,10 +31,10 @@ const shuvroBiswas = {
   },
   
 }
-
-
-const nurAdnan = {
+const shuvroBiswas = {
   pronouns: "he/him",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  // আপনার অন্যান্য তথ্য...
+  code: ["JavaScript", "HTML", "CSS", "Tailwind CSS"],
+  tools: ["React", "VS Code", "Vite", "Git", "GitHub"],
+  role: "Aspiring Full Stack Developer",
+  challenge: "I am doing the #100DaysOfCode challenge"
 }
